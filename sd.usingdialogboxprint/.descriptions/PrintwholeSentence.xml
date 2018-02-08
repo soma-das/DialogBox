@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="PrintwholeSentence" 
+    author="Soma Das" 
+    purpose="Print your name in a sentence" 
+    uuid="_GBym4QtFEeiHzKYeuw1w7Q" 
+    status="under construction" 
+    private="true" 
+    type="system" 
+    >
+    <required>
+        <block name="b0" uuid="_XZLa4aqAEeamGsXlh08jbA"/>
+    </required>
+    <description>
+<![CDATA[Here we are using DialogStringInput building block to take name as an input and print a sentence adding entered name to it.
+
+result: Jeg heter ......(the name you will enter)]]>
+    </description>
+</block>

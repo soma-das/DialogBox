@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    title="sd.usingdialogboxprint"
+    uuid="_A_JzcAtFEeiHzKYeuw1w7Q"
+    version="1.0.0"
+    >
+    <dependencies>
+        <dependency name="lego.test11" uuid="_7azEcKp_EeamGsXlh08jbA" version="1.2.0"/>
+    </dependencies>
+</project>
